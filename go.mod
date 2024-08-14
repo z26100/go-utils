@@ -1,4 +1,4 @@
-module github.com/z26100/utils-go
+module github.com/z26100/go-utils
 
 go 1.22.4
 
